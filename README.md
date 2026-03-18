@@ -13,7 +13,7 @@ Experimental evaluation demonstrates improved accuracy, relevance ranking, and r
 
 
 <h2 align="left"> 
-  Fig. 1.1 First set of Word Cloud of Scientific Literature publications
+# MLP Training Curves Training vs Validation Loss Curves
   <br>
  <a href=""><img src="https://github.com/tobimichigan/DigitalGradient-AI/blob/main/model_plots/mlp_training_curves.png" alt="Fig. Training vs Validation Loss Curves" width="1020"></a> 
   <br> 
