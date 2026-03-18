@@ -2,7 +2,7 @@
 A Hybrid Multi-Agent Retrieval-Augmented Generation Framework for Scalable Semantic Search and Intelligent Customer Support Systems
 
 
-<p><h1>ABSTRACT</h1></p>
+<p align="center"><h1>ABSTRACT</h1></p>
 
 <p>
 This research & development innovation presents a novel hybrid architecture that integrates classical machine learning, deep neural networks, and large-scale transformer-based models into a unified multi-agent Retrieval-Augmented Generation (RAG) system. The proposed framework leverages a fine-tuned large language model based on NVIDIA’s Nemotron architecture, enhanced with parameter-efficient fine-tuning via Low-Rank Adaptation (LoRA), enabling high-performance inference without full model retraining.
