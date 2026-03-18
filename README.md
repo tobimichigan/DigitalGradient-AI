@@ -10,3 +10,16 @@ The system pipeline is composed of structured stages including data preprocessin
 A key contribution is the integration of a multi-agent orchestration layer, where specialized agents (billing, technical, and general support) are dynamically routed using intent classification heuristics. The system incorporates knowledge base retrieval, contextual grounding, and response generation using RAG, while enforcing privacy through rule-based PII guardrails and enabling escalation through simulated ticketing APIs.
 Experimental evaluation demonstrates improved accuracy, relevance ranking, and robustness across training, validation, test, and holdout datasets, with effective mitigation of overfitting through early stopping, ensembling, and regularization techniques. The framework mirrors real-world cloud AI infrastructures and provides a scalable blueprint for deploying intelligent, domain-aware conversational systems in enterprise environments.
 </p>
+
+
+<h2 align="left"> 
+  Fig. 1.1 First set of Word Cloud of Scientific Literature publications
+  <br>
+ <a href=""><img src="https://github.com/tobimichigan/DigitalGradient-AI/blob/main/model_plots/mlp_training_curves.png" alt="Fig. Training vs Validation Loss Curves" width="1020"></a> 
+  <br> 
+   <br>
+</h2>
+
+<p>These plots track: Ltrain(t),Lval(t) train (t),L val (t) over epochs. A monotonic decrease in training loss indicates effective gradient-based optimization. A validation loss curve that stabilizes or slightly increases signals: onset of overfitting, model memorization vs generalization boundary, If curves converge: The model is well-regularized Optimization landscape is stable, If they diverge:High variance model
+
+</p>
